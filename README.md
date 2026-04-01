@@ -1,4 +1,4 @@
-# PRODIGY_CS_04 â€” Simple Keylogger (Educational)
+# PRODIGY_CS_04 - Simple Keylogger (Educational)
 
 **Task-04** for the Prodigy InfoTech Cyber Security internship: a minimal program that **records keystrokes** and **appends them to a log file**, to study how such tools behave and why **permissions and ethics** matter.
 
@@ -68,4 +68,4 @@ While it runs, keys are captured and suppressed from the active prompt by defaul
 
 ## Author
 
-**Mario Makhlouta** â€” intern at Prodigy InfoTech (April 2026). Project: **PRODIGY_CS_04**.
+**Mario Makhlouta** - intern at Prodigy InfoTech (April 2026). Project: **PRODIGY_CS_04**.
